@@ -18,5 +18,8 @@
   "homepage": "https://github.com/ppamorim/express-sample#readme",
   "dependencies": {
     "express": "^4.13.4"
+  },
+  "devDependencies": {
+    "pug": "^1.11.0"
   }
 }
